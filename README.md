@@ -61,11 +61,11 @@ Developed as a student project, VarausApp provides a clean, interactive interfac
 -Backend: Node.js, Express.js, MongoDB
 
 **Screenshots:**  
-![Login](./Varausapp/screenshots/1_Login.png)  
-![Home](./varausapp/screenshots/2_home.png)  
-![Map Popup](./Varausapp/screenshots/3_map_popup.png)  
-![Reservation](./Varausapp/screenshots/4_reservation.png)  
-![My Reservations](./Varausapp/screenshots/5_my-reservations.png)
+![Login](./Varausapp/1_Login.png)  
+![Home](./varausapp/2_home.png)  
+![Map Popup](./Varausapp/3_map_popup.png)  
+![Reservation](./Varausapp/4_reservation.png)  
+![My Reservations](./Varausapp/5_my-reservations.png)
  
 **Run Instructions:** See [README in the `varausapp` folder](./varausapp/README.md) for detailed setup.
 
@@ -103,9 +103,9 @@ The project was developed as my functional thesis, motivated by inefficiencies o
 
 **Screenshots**
 
-![Login](./LandLordPro/screenshots/login.PNG)  
-![Home](./LandLordPro/screenshots/homelist.PNG)  
-![Add property](./LandLordPro/screenshots/property.PNG)  
-![View property](./LandLordPro/screenshots/propertydetail.PNG)  
+![Login](./LandLordPro/login.PNG)  
+![Home](./LandLordPro/homelist.PNG)  
+![Add property](./LandLordPro/property.PNG)  
+![View property](./LandLordPro/propertydetail.PNG)  
 
 **Run Instructions:** See [README in the `landlordpro` folder](./landlordpro/README.md) for detailed setup.
