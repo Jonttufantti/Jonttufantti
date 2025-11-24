@@ -35,7 +35,10 @@ Originally a legacy project, I restored its functionality and added a language s
 ![EntreFox Screenshot 2](./Entrefox_app/2_home.jpg)  
 ![EntreFox Screenshot 3](./Entrefox_app/3_kehityskeskustelu.jpg)
 
-**Run Instructions:** See [README in the `entrefox_app` folder](./entrefox_app/README.md) for detailed setup.
+**Run Instructions:** See the 
+[README in the entrefox_app repository](https://github.com/Jonttufantti/entrefox_app/blob/main/README.md)
+for detailed setup.
+
 
 ---
 
@@ -67,7 +70,10 @@ Developed as a student project, VarausApp provides a clean, interactive interfac
 ![Reservation](./Varausapp/4_reservation.png)  
 ![My Reservations](./Varausapp/5_my-reservations.png)
  
-**Run Instructions:** See [README in the `varausapp` folder](./varausapp/README.md) for detailed setup.
+**Run Instructions:** See the 
+[README in the varausapp repository](https://github.com/Jonttufantti/varausapp/blob/main/README.md)
+for detailed setup.
+
 
 ---
 
