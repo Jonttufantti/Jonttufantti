@@ -31,9 +31,9 @@ Originally a legacy project, I restored its functionality and added a language s
 ✔️ Configurable environment with Docker
 
 **Screenshots:**  
-![EntreFox Screenshot 1](./entrefox_app/screenshots/1_launch.jpg)  
-![EntreFox Screenshot 2](./entrefox_app/screenshots/2_home.jpg)  
-![EntreFox Screenshot 3](./entrefox_app/screenshots/3_kehityskeskustelu.jpg)
+![EntreFox Screenshot 1](./Entrefox_app/screenshots/1_launch.jpg)  
+![EntreFox Screenshot 2](./Entrefox_app/screenshots/2_home.jpg)  
+![EntreFox Screenshot 3](./Entrefox_app/screenshots/3_kehityskeskustelu.jpg)
 
 **Run Instructions:** See [README in the `entrefox_app` folder](./entrefox_app/README.md) for detailed setup.
 
@@ -61,11 +61,11 @@ Developed as a student project, VarausApp provides a clean, interactive interfac
 -Backend: Node.js, Express.js, MongoDB
 
 **Screenshots:**  
-![Login](./varausapp/screenshots/1_Login.png)  
+![Login](./Varausapp/screenshots/1_Login.png)  
 ![Home](./varausapp/screenshots/2_home.png)  
-![Map Popup](./varausapp/screenshots/3_map_popup.png)  
-![Reservation](./varausapp/screenshots/4_reservation.png)  
-![My Reservations](./varausapp/screenshots/5_my-reservations.png)
+![Map Popup](./Varausapp/screenshots/3_map_popup.png)  
+![Reservation](./Varausapp/screenshots/4_reservation.png)  
+![My Reservations](./Varausapp/screenshots/5_my-reservations.png)
  
 **Run Instructions:** See [README in the `varausapp` folder](./varausapp/README.md) for detailed setup.
 
@@ -103,9 +103,9 @@ The project was developed as my functional thesis, motivated by inefficiencies o
 
 **Screenshots**
 
-![Login](./landlordpro/screenshots/login.PNG)  
-![Home](./landlordpro/screenshots/homelist.PNG)  
-![Add property](./landlordpro/screenshots/property.PNG)  
-![View property](./landlordpro/screenshots/propertydetail.PNG)  
+![Login](./LandLordPro/screenshots/login.PNG)  
+![Home](./LandLordPro/screenshots/homelist.PNG)  
+![Add property](./LandLordPro/screenshots/property.PNG)  
+![View property](./LandLordPro/screenshots/propertydetail.PNG)  
 
 **Run Instructions:** See [README in the `landlordpro` folder](./landlordpro/README.md) for detailed setup.
