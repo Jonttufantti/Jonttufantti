@@ -108,5 +108,5 @@ The project was developed as my functional thesis, motivated by inefficiencies o
 ![Add property](./LandLordPro/property.PNG)  
 ![View property](./LandLordPro/propertydetail.PNG)  
 
-**Run Instructions:** See [README in the `landlordpro` folder]((https://github.com/Jonttufantti/LandLordPro/blob/main/README.md
-) for detailed setup.
+**Run Instructions:** See [README in the LandLordPro repository](https://github.com/Jonttufantti/LandLordPro/blob/main/README.md)
+for detailed setup.
