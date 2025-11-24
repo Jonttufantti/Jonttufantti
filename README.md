@@ -31,9 +31,9 @@ Originally a legacy project, I restored its functionality and added a language s
 ✔️ Configurable environment with Docker
 
 **Screenshots:**  
-![EntreFox Screenshot 1](Entrefox_app/screenshots/1_launch.jpg)  
-![EntreFox Screenshot 2](Entrefox_app/screenshots/2_home.jpg)  
-![EntreFox Screenshot 3](Entrefox_app/screenshots/3_kehityskeskustelu.jpg)
+![EntreFox Screenshot 1](./Entrefox_app/1_launch.jpg)  
+![EntreFox Screenshot 2](./Entrefox_app/2_home.jpg)  
+![EntreFox Screenshot 3](./Entrefox_app/3_kehityskeskustelu.jpg)
 
 **Run Instructions:** See [README in the `entrefox_app` folder](./entrefox_app/README.md) for detailed setup.
 
