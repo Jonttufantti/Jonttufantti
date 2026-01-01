@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you can find a selection of projects I’ve develo
 
 ## Projects
 
-### 1. [EntreFox App](./entrefox_app)
+### 1. ### 1. [EntreFox App](https://github.com/Jonttufantti/entrefox_app)
 Cross-platform mobile application built with **React Native** to support entrepreneurship, featuring questionnaires and form management. 
 
 **Overview:**  
@@ -42,7 +42,7 @@ for detailed setup.
 
 ---
 
-### 2. [Varausapp](./varausapp)
+### 2. [VarausApp](https://github.com/Jonttufantti/varausapp)
 Web application for reserving computers and meeting spaces at theFirma. Built with React on the frontend and Node.js/Express/MongoDB on the backend.
 
 **Overview:**
@@ -77,7 +77,7 @@ for detailed setup.
 
 ---
 
-### [LandLordPro](./landlordpro/)
+### 3. [LandLordPro](https://github.com/Jonttufantti/LandLordPro)
 
 **Overview:**
 
